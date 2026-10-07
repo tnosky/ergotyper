@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# generated data
+tf_corpus.txt
+ergo_log.txt
+runs/
+*.pt
+*.tflite
